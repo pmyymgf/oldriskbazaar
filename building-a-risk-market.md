@@ -141,6 +141,7 @@ Wallet – A file that stores the private key(s) that a user needs to transfer f
 
 
 Bibliography
+
 1.	Accenture. Missing an Opportunity - Talent Supply Chain. North America: Accenture.
 
 2.	Antonopoulos, A. M. (2015). Mastering Bitcoin. O'Reilly.
