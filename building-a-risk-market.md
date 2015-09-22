@@ -1,6 +1,6 @@
-Building a risk market for the digital age		17th August 2015
+#Building a risk market for the digital age
 
-Michael Folkson
+Michael Folkson 17th August 2015
 
 Abstract
 
