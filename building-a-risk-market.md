@@ -140,42 +140,80 @@ Wallet – A file that stores the private key(s) that a user needs to transfer f
 
 Bibliography
 1.	Accenture. Missing an Opportunity - Talent Supply Chain. North America: Accenture.
+
 2.	Antonopoulos, A. M. (2015). Mastering Bitcoin. O'Reilly.
+
 3.	Aon Benfield. (2014). Insurance Risk Study. Aon Benfield.
+
 4.	Bernstein, P. (1998). Against the Gods - The Remarkable Story of Risk. John Wiley & Sons.
+
 5.	Bitrated. (2015). About Bitrated. Retrieved from Bitrated: https://www.bitrated.com/about
+
 6.	Brody, P., & Pureswaran, V. (2014). Device democracy: Saving the future of the Internet of Things. IBM Institute for Business Value.
+
 7.	Brody, P., Pureswaran, V., Panikkar, S., & Nair, S. (2015). Empowering the edge - Practical Insights on a decentralized Internet of Things. IBM Institute for Business Value.
-8.	Brown, R. G. (2015). Bitcoin and Blockchain: Two revolutions for the price of one. Retrieved from Thoughts on the future of finance: http://gendal.me/2015/07/23/bitcoin-and-blockchain-two-revolutions-for-the-price-of-one/ 
+
+8.	Brown, R. G. (2015). Bitcoin and Blockchain: Two revolutions for the price of one. Retrieved from Thoughts on the future of finance: http://gendal.me/2015/07/23/bitcoin-and-blockchain-two-revolutions-for-the-price-of-one/
+
 9.	Buterin, V. (2013). A Next-Generation Smart Contract and Decentralized Application Platform. Ethereum.
+
 10.	Coinkite. (2015). Bitcoin Escrow Payments With Coinkite Multi-Signature. Retrieved from Coinkite: http://blog.coinkite.com/post/124840306576/bitcoin-escrow-payments-with-coinkite
+
 11.	Coinslists. (2015). Bitcoin Buyer Protection. Retrieved from Coinslists: https://coinslists.info/index.php/2015/06/09/bitcoin-buyer-protection/
+
 12.	Davis, J. (2015). Peer to peer insurance on an Ethereum blockchain. 
+
 13.	DeFigueiredo, D., & Barr, E. (2014). TrustDavis: A Non-Exploitable Online Reputation System. University of California at Davis, Computer Science. UC Davis.
+
 14.	Duguid, A. (2014). On the Brink: How a Crisis Transformed Lloyd's of London. Palgrave Macmillan.
+
 15.	Ethereum. (2015). Frontier Guide. Ethereum.
-16.	Folkson, M. (2009). History repeating itself? The Actuary .
-17.	Jewell, K. (2013). Know When to Hold 'Em. Nautilus .
-18.	Lloyd's of London. (n.d.). Lloyd's capital structure. Retrieved from Lloyd's: https://www.lloyds.com/lloyds/investor-relations/lloyds-capital-structure 
-19.	Lloyd's of London. (n.d.). The Lloyd's Market. Retrieved from Lloyd's: https://www.lloyds.com/lloyds/about-us/what-is-lloyds/the-lloyds-market 
+
+16.	Folkson, M. (2009). History repeating itself? The Actuary.
+
+17.	Jewell, K. (2013). Know When to Hold 'Em. Nautilus.
+
+18.	Lloyd's of London. (n.d.). Lloyd's capital structure. Retrieved from Lloyd's: https://www.lloyds.com/lloyds/investor-relations/lloyds-capital-structure
+
+19.	Lloyd's of London. (n.d.). The Lloyd's Market. Retrieved from Lloyd's: https://www.lloyds.com/lloyds/about-us/what-is-lloyds/the-lloyds-market
+
 20.	Morgan Stanley, BCG. (2014). Insurance and Technology - Evolution and Revolution in a Digital World. Morgan Stanley, BCG.
+
 21.	Nakamoto, S. (2008). Bitcoin: A Peer-to-Peer Electronic Cash System. www.bitcoin.org.
+
 22.	OpenBazaar. (2015). What is OpenBazaar? Retrieved from OpenBazaar: https://blog.openbazaar.org/what-is-openbazaar/
+
 23.	Peel, C. (2015). Ethereum - Introduction and Solidity examples.
+
 24.	Peterson, J., & Krug, J. (2014). Augur: a Decentralized, Open-Source Platform for Prediction Markets. www.augur.net.
+
 25.	Pureswaran, V., Panikkar, S., & Nair, S. (2015). Empowering the edge - Use case abstract for the ADEPT proof-of-concept. IBM Institute for Business Value.
+
 26.	Renton, P. (2012). The Lending Club Story. Amazon Media.
+
 27.	Sanchez, W. (2015). OpenBazaar - Ratings, reviews and reputation. Retrieved from Slideshare: http://www.slideshare.net/drwasho/openbazaar-ratings-reviews-and-reputation?related=1
+
 28.	Swan, M. (2015). Blockchain: Blueprint for a New Economy. O'Reilly.
+
 29.	Swanson, T. (2015). Consensus-as-a-service: a brief report on the emergence of permissioned, distributed ledger systems. www.ofnumbers.com.
+
 30.	Swanson, T. (2014). Great Chain of Numbers: A Guide to Smart Contracts, Smart Property and Trustless Asset Management. Amazon Media.
+
 31.	Szabo, N. (1994). Smart Contracts. Retrieved from Nick Szabo's Essays, Papers and Concise Tutorials: http://szabo.best.vwh.net/smart.contracts.html 
+
 32.	Sztorc, P. (2014). Truthcoin: Peer-to-Peer Oracle System and Prediction Marketplace. Truthcoin.
+
 33.	Thiel, P. (2015). Zero to One. Virgin Books.
+
 34.	Thomson, L. (2014). Minimum Viable Bureaucracy.
+
 35.	Wikipedia. (n.d.). History of insurance. Retrieved from Wikipedia: https://en.wikipedia.org/wiki/History_of_insurance
-36.	Wikipedia. (n.d.). Lloyd's of London. Retrieved from Wikipedia: https://en.wikipedia.org/wiki/Lloyd%27s_of_London 
+
+36.	Wikipedia. (n.d.). Lloyd's of London. Retrieved from Wikipedia: https://en.wikipedia.org/wiki/Lloyd%27s_of_London
+
 37.	Wood, G. (2015). Ethereum: A Secure Decentralised Generalised Transaction Ledger Final Draft. Ethereum.
+
 38.	Z/Yen Group. (2014). Chain of a Lifetime: How Blockchain Technology Might Transform Personal Insurance. Long Finance.
+
 39.	Zindros, D. (2015). A pseudonymous trust system for a decentralized anonymous marketplace. National Technical University of Athens.
 
