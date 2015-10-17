@@ -4,17 +4,12 @@ Michael Folkson
 
 16th October 2015
 
-## 4.6 Insurance
+
 
 Insurance is a valuable service that is often misinterpreted, over-regulated, and out of reach for many people. On *OpenBazaar*, insurance is contextualized as a service that can be offered by anyone or group, leveraging: 
 
 1. The clarity of terms and conditions set out in a Ricardian contract
 2. An open marketplace for competing insurance policies and service providers
-
-
-Ultimately, the market will decide the most appropriate insurance service and contract models for *OpenBazaar*. In this article, we propose some potential implementations as a primer for future development. 
-
-### 1. Insurance Services 
 
 Insurance services fundamentally offer: 
 
@@ -35,12 +30,12 @@ While the various fields necessary for a comprehensive contract are difficult to
 
 ```JSON
 {
-    "OpenBazaar Contract": {
-        "OBCv": "0.1",
+    "RiskBazaar Contract": {
+        "RBCv": "0.1",
         "Category": "Insurance",
-        "Sub-category,": "Car-Insurnace",
+        "Sub-category,": "Car-Insurance",
         "Nonce": "01",
-        "Expiration": "2014-06-29 12:00:00"
+        "Expiration": "2015-12-31 12:00:00"
     },
     "Seller": {
         "NymID": "Samuel Patterson",
