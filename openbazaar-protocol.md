@@ -1,1 +1,1 @@
-# Leveraging the OpenBazaar Protocol for RiskBazaar
+# Leveraging the OpenBazaar protocol for RiskBazaar
