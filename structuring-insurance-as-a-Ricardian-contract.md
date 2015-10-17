@@ -4,9 +4,9 @@ Michael Folkson
 
 16th October 2015
 
-One way of structuring an insurance contract is as a Ricardian contract. 
+One way of structuring an insurance contract is as a *Ricardian contract*. 
 
-Ian Grigg defines a Ricardian contract as "a single document that is a) a contract offered by an issuer to holders, b) for a valuable right held by holders, and managed by the issuer, c) easily readable by people (like a contract on paper), d) readable by programs (parsable like a database), e) digitally signed, f) carries the keys and server information, and g) allied with a unique and secure identifier."
+Ian Grigg defines a *Ricardian contract* as "a single document that is a) a contract offered by an issuer to holders, b) for a valuable right held by holders, and managed by the issuer, c) easily readable by people (like a contract on paper), d) readable by programs (parsable like a database), e) digitally signed, f) carries the keys and server information, and g) allied with a unique and secure identifier."
 
 1. The clarity of terms and conditions set out in a Ricardian contract
 2. An open marketplace for competing insurance policies and service providers
