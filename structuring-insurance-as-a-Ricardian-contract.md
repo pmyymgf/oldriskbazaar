@@ -8,25 +8,7 @@ One way of structuring an insurance contract is as a **Ricardian contract**.
 
 *Ian Grigg* defines a **Ricardian contract** as "a single document that is a) a contract offered by an issuer to holders, b) for a valuable right held by holders, and managed by the issuer, c) easily readable by people (like a contract on paper), d) readable by programs (parsable like a database), e) digitally signed, f) carries the keys and server information, and g) allied with a unique and secure identifier."
 
-1. The clarity of terms and conditions set out in a Ricardian contract
-2. An open marketplace for competing insurance policies and service providers
-
-Insurance services fundamentally offer: 
-
-1. A pool of funds to offset a cost that exceeds the capacity of the client to pay within a timely manner
-2. A pool of funds to compensate another party that has been wronged by actions of the client, which addresses their capacity to pay within a reasonable time frame
-3. A dispute resolution organization that represents the interests of the client
-
-These services are of course provided through the lens of *risk assessment* to dictate the price of: 
-
-1. The insurance premium (regular cost of the policy)
-2. The excess (fee paid when insurance is triggered). 
-
-Traditional business models of insurance mirror a fractional reserve system in that funds are predominantly reinvested on the statistical reality that it is unlikely for all or even most policies to be triggered at once. Whether this model survives the blockchain era is unknown. The transparency that the blockchain provides may alter consumer preferences for how insurance funds are managed; *proof of solvency* may be an inescapable market-imposed regulation. If so, insurance providers will need to prove that the proportion of funds kept in reserve and those reinvested are at the levels that the policy claims. Alternatively,  conservative insurance providers may keep 100% reserves and seek to raise profits only by fees incorporated into the premium and excess. 
-
-Whatever business model an insurance provider adopts, the terms and conditions of their policy will be listed within a Ricardian contract in *OpenBazaar*, with digital signatures as the unmistakable evidence of agreement.
-
-While the various fields necessary for a comprehensive contract are difficult to predict, the *seed contract* may contain the following core data fields:
+An example for how an insurance **Ricardian contract** could be encoded is below:
 
 ```JSON
 {
@@ -35,7 +17,7 @@ While the various fields necessary for a comprehensive contract are difficult to
         "Category": "Insurance",
         "Sub-category,": "Car-Insurance",
         "Nonce": "01",
-        "Expiration": "2015-12-31 12:00:00"
+        "Expiration": "2016-12-31 12:00:00"
     },
     "Seller": {
         "NymID": "Michael Folkson",
