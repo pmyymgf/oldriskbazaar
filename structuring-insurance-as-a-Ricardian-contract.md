@@ -4,6 +4,10 @@ Michael Folkson
 
 16th October 2015
 
+One way of structuring an insurance contract is as a Ricardian contract. 
+
+Ian Grigg defines a Ricardian contract as "a single document that is a) a contract offered by an issuer to holders, b) for a valuable right held by holders, and managed by the issuer, c) easily readable by people (like a contract on paper), d) readable by programs (parsable like a database), e) digitally signed, f) carries the keys and server information, and g) allied with a unique and secure identifier.
+
 1. The clarity of terms and conditions set out in a Ricardian contract
 2. An open marketplace for competing insurance policies and service providers
 
@@ -34,8 +38,8 @@ While the various fields necessary for a comprehensive contract are difficult to
         "Expiration": "2015-12-31 12:00:00"
     },
     "Seller": {
-        "NymID": "Samuel Patterson",
-        "NodeID": "SamPatt",
+        "NymID": "Michael Folkson",
+        "NodeID": "MFolkson",
         "BTCuncompressedpubkey": "044448c02963b8f5ba1b8f7019a03b57c80b993313c37b464866efbf61c37098440bcdcc88bedf7f1e9c201e294cf3c064d39e372692a0568c01565b838e06af0b",
         "PGPpublicKey": [
             "mQENBFMKYTUBCADD6kIAjBlJ2Q0NEd97aia0BSBibO1C2lVemWig5cNATeob1McWoEo3QznZ",
