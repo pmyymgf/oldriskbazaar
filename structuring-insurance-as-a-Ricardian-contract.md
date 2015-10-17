@@ -4,10 +4,6 @@ Michael Folkson
 
 16th October 2015
 
-
-
-Insurance is a valuable service that is often misinterpreted, over-regulated, and out of reach for many people. On *OpenBazaar*, insurance is contextualized as a service that can be offered by anyone or group, leveraging: 
-
 1. The clarity of terms and conditions set out in a Ricardian contract
 2. An open marketplace for competing insurance policies and service providers
 
