@@ -10,7 +10,7 @@ Insurance is a valuable service that is often misinterpreted, over-regulated, an
 
 1. The clarity of terms and conditions set out in a Ricardian contract
 2. An open marketplace for competing insurance policies and service providers
-3. The transparency that crypto-currencies provide via the blockchain
+
 
 Ultimately, the market will decide the most appropriate insurance service and contract models for *OpenBazaar*. In this article, we propose some potential implementations as a primer for future development. 
 
