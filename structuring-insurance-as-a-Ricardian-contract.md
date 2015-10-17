@@ -6,6 +6,5 @@ Michael Folkson
 
 Bibliography
 
-1.	Accenture. Missing an Opportunity - Talent Supply Chain. North America: Accenture.
-
+1.	Sanchez, W. (2015). 4.Marketplaces https://github.com/drwasho/openbazaar-documentation/blob/master/04%20Marketplaces.md#46-insurance
 
