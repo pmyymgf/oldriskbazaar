@@ -8,8 +8,9 @@
 ## Other Projects
 RiskBazaar is clearly not being developed in a vacuum. There are a multitude of other projects and applications that are currently being built. Some of these are directly focused on providing insurance solutions whilst others are more generalized and may be integrated to bolster direct insurance applications. Those that are particularly relevant to RiskBazaar are listed below.
 
-* Oraclize
+* InterChainZ (Z/Yen)
 * P2P Insurance Ethereum Dapp (Joshua Davis)
+* Oraclize
 * Augur
 * Factom
 * Tierion
