@@ -73,6 +73,7 @@ An example for how an insurance **Ricardian contract** could be encoded is below
     }
 }
 ```
+More here: https://gist.github.com/drwasho/352a565475a7f1e6dda0
 
 When a client takes out an *insurance contract* with a provider, a multisignature transaction is created in combination with the notary's pubkey. The client's insurance funds are paid to the multisignature transaction according to the payment schedule specified within the *insurance contract*. Under the client and/or notary's supervision, the insurance provider cannot extract funds beyond the reserve amount stated in the contract. For large insurance policies, a notary pool can be used for redundancy's sake and to minimize risk for client and insurance provider. Before an *insurance contract* is signed by the client and insurance provider, the latter can provide evidence that they have sufficient funds to payout the full value of the policy (e.g. 20 BTC in the case of the *insurance contract* above).
 
@@ -96,4 +97,6 @@ If the courier in this example *did* have a presence on *OpenBazaar*, Alice's in
 Bibliography
 
 1.	Sanchez, W. (2015). Marketplaces https://github.com/drwasho/openbazaar-documentation/blob/master/04%20Marketplaces.md#46-insurance
+2.	Sanchez, W. (2015). OpenBazaar Insurance Contracts
+https://gist.github.com/drwasho/352a565475a7f1e6dda0
 
