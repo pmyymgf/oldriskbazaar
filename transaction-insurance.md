@@ -2,7 +2,7 @@
 
 The first application of RiskBazaar will provisionally be to provide transaction insurance on OpenBazaar. This insurance coverage relates to transactions where there is a dispute between buyer and vendor prior to completion of the transaction and the arbiter rules "incorrectly" in favour of one of the parties. The insurance contract will compensate the wronged party if they have purchased transaction insurance and have a valid claim.
 
-__September 29th__ - OpenBazaar Slack chat
+__September 29th__ (OpenBazaar Slack)
 
 Discussion on what should be hashed in the OP_RETURN of an OpenBazaar transaction
 
