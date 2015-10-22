@@ -2,7 +2,7 @@
 
 Some notes so far....
 
-September 29th
+__September 29th__
 
 Discussion on what should be hashed in the OP_RETURN
 
