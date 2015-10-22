@@ -96,7 +96,9 @@ If the courier in this example *did* have a presence on *OpenBazaar*, Alice's in
 
 Bibliography
 
-1.	Sanchez, W. (2015). Marketplaces https://github.com/drwasho/openbazaar-documentation/blob/master/04%20Marketplaces.md#46-insurance
-2.	Sanchez, W. (2015). OpenBazaar Insurance Contracts
+1. Grigg, I. (2004). The Ricardian Contract
+http://iang.org/papers/ricardian_contract.html
+2.	Sanchez, W. (2015). Marketplaces https://github.com/drwasho/openbazaar-documentation/blob/master/04%20Marketplaces.md#46-insurance
+3.	Sanchez, W. (2015). OpenBazaar Insurance Contracts
 https://gist.github.com/drwasho/352a565475a7f1e6dda0
 
