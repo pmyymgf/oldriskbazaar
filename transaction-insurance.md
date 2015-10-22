@@ -5,9 +5,13 @@ Some notes so far....
 September 29th
 
 Discussion on what should be hashed in the OP_RETURN
+
 Efficiency vs Security
+
 @austin proposed hash(RA || hash (TR)) in OP_RETURN
+
 TR = fully completed trade receipt
+
 RA = signed rating (which is contained in the TR)
 
 My spidey senses are tingling at the thought of OP_RETURNing a hash of only a ​_subset_​ of the completed TR (that is, OP_RETUNRing only the hash of the ratings and not the hash of the fully completed TR). I'm concerned this could leave us open to a vulnerability that would allow people keep the same rating data but swap out the rest of the completed TR.
