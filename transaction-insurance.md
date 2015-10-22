@@ -1,1 +1,1 @@
-Transaction insurance in OpenBazaar - The first application
+# Transaction insurance in OpenBazaar - The first application
