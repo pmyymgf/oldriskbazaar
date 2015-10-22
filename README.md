@@ -12,6 +12,7 @@ RiskBazaar is clearly not being developed in a vacuum. There are a multitude of 
 * InterChainZ (Z/Yen)
 * P2P Insurance Ethereum Dapp (Joshua Davis)
 * Oraclize
+* Onename
 * Augur
 * Factom
 * Tierion
