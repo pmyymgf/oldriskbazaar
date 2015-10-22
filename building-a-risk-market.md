@@ -38,7 +38,7 @@ Nevertheless an escrow transaction built on a Bitcoin-like blockchain could be a
 
 At least 2 of those public keys must provide signatures to release the encumbrance such as in the following unlocking script:
 
-OP_0 Signature A Signature C
+```OP_0 Signature A Signature C```
 
 Alternatively, because multi-signature scripts can be cumbersome to use and take up significantly more memory than a basic Bitcoin transaction, an alternative would be to use a pay-to-script-hash. This replaces the locking script with a cryptographic hash such that the ‘redeem script’ matching that hash is presented at redemption.
 
