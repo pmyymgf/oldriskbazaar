@@ -20,8 +20,8 @@ An example for how an insurance **Ricardian contract** could be encoded is below
         "Expiration": "2016-12-31 12:00:00"
     },
     "Seller": {
-        "NymID": "Michael Folkson",
-        "NodeID": "MFolkson",
+        "NymID": "Washington Sanchez",
+        "NodeID": "drwasho",
         "BTCuncompressedpubkey": "044448c02963b8f5ba1b8f7019a03b57c80b993313c37b464866efbf61c37098440bcdcc88bedf7f1e9c201e294cf3c064d39e372692a0568c01565b838e06af0b",
         "PGPpublicKey": [
             "mQENBFMKYTUBCADD6kIAjBlJ2Q0NEd97aia0BSBibO1C2lVemWig5cNATeob1McWoEo3QznZ",
