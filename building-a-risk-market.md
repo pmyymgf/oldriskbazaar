@@ -1,6 +1,8 @@
 #Building a risk market for the digital age
 
-__Michael Folkson__ __17th August 2015__
+__Michael Folkson__ 
+
+__17th August 2015__
 
 ###Abstract
 
