@@ -3,6 +3,7 @@
 Some notes so far....
 
 September 29th
+
 Discussion on what should be hashed in the OP_RETURN
 Efficiency vs Security
 @austin proposed hash(RA || hash (TR)) in OP_RETURN
