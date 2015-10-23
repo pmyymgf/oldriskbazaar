@@ -15,7 +15,10 @@ This was a project completed by the consultancy Z/Yen Group exploring the uses o
 
 http://www.zyen.com/now-and-zyen/37-knowledge/articles-and-reviews/1510-interchainz-methodology-and-approach.html
 
-* P2P Insurance Ethereum Dapp (Joshua Davis)
+__P2P Insurance Ethereum Dapp__
+
+Joshua Davis has built a decentralized application for a mutual unemployment insurance arrangement on Ethereum.
+
 * Oraclize
 * Onename
 * Augur
