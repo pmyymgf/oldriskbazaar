@@ -9,7 +9,11 @@
 ## Other Projects
 RiskBazaar is clearly not being developed in a vacuum. There are a multitude of other projects and applications that are currently being built. Some of these are directly focused on providing insurance solutions whilst others are more generalized and may be integrated to bolster direct insurance applications. Those that are particularly relevant to RiskBazaar are listed below.
 
-* InterChainZ (Z/Yen)
+* InterChainZ
+This was a project completed by the consultancy Z/Yen Group exploring the uses of mutual distributed ledgers. Among the use cases were an individual seeking to purchase a motor insurance policy with their insurance history stored on a distributed ledger and a small business insurance policy being priced using the data from a corporate credit distributed ledger.
+
+http://www.zyen.com/now-and-zyen/37-knowledge/articles-and-reviews/1510-interchainz-methodology-and-approach.html
+
 * P2P Insurance Ethereum Dapp (Joshua Davis)
 * Oraclize
 * Onename
