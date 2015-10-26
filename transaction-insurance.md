@@ -58,7 +58,7 @@ Hash: Hash160
 30c2507be3fb5ad077a8227031dfd329d9641ab430c2507be3fb5ad077a8227031dfd329d9641ab430c2507be3fb5ad077a8227031dfd329d9641ab431dfd3
 -----END OPENBAZAAR VENDOR RATING-----
 ```
-This review block can be validated to prove the person who created it was in a transaction with the vendor. Provisionally the vendor will be required to store it but these will eventually need to be securely stored (In the meantime the buyer still has proof the trade took place). 
+This review block can be validated to prove the person who created it was in a transaction with the vendor. Provisionally the vendor will be required to store it but these will eventually need to be securely stored by OpenBazaar. (In the meantime the buyer still has proof the trade took place). 
 
 __October 3rd__
 
