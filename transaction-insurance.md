@@ -29,7 +29,7 @@ The alternative plan as described by @cpacia is to create compact proofs that a 
 
 2) Vendor responds with a signature covering the bitcoin address, amount to be paid, listing hash and a buyer public key (which is used to sign a public review)
 
-{-----BEGIN OPENBAZAAR VENDOR RATING-----
+```JSON -----BEGIN OPENBAZAAR VENDOR RATING-----
 Version: OpenBazaar-Server 0.1
 
 Vendor: e2fdb78bca93788ff073df029badcaeab622594a
@@ -52,7 +52,7 @@ Review: "Good stuff. Took long to deliver tho"
 Hash: Hash160
 
 30c2507be3fb5ad077a8227031dfd329d9641ab430c2507be3fb5ad077a8227031dfd329d9641ab430c2507be3fb5ad077a8227031dfd329d9641ab431dfd3
------END OPENBAZAAR VENDOR RATING-----}
+-----END OPENBAZAAR VENDOR RATING-----} ```
 
 
 
