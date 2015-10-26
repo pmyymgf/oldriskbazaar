@@ -90,7 +90,8 @@ Ok, I've been reviewing the transaction summary schema. I formatted the tx summa
 
 JSON formatting instead of PGP
 
-```{
+```
+{
   "tx_summary" : {
       "vendor" : {
         "guid" : "e2fdb78bca93788ff073df029badcaeab622594a",
