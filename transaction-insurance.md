@@ -31,6 +31,8 @@ The alternative plan as described by @cpacia is to create compact proofs that a 
 
 ```JSON
 {
+-----BEGIN OPENBAZAAR VENDOR RATING-----
+Version: OpenBazaar-Server 0.1
 
 Vendor: e2fdb78bca93788ff073df029badcaeab622594a
 Vendor Signed Public Key: 72c3f7ee7cfc90f3b40903b2f2a294860599928272c3f7ee7cfc90f3b40903b2f2a294860599928272c3f7ee7cfc90f3b40903b2f2a2948605999282e7cfc90fca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb
