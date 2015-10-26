@@ -6,6 +6,11 @@
 3. [Leveraging the OpenBazaar protocol for RiskBazaar](openbazaar-protocol.md) by Michael Folkson
 4. [Transaction insurance in OpenBazaar - The first application] (transaction-insurance.md) by Michael Folkson
 
+## Articles
+Software is eating insurance: 10 VCs sound off on insurance tech disruption (cbinsights.com)
+
+https://www.cbinsights.com/blog/insurance-tech-vc-commentary/
+
 ## Other Projects
 RiskBazaar is clearly not being developed in a vacuum. There are a multitude of other projects and applications that are currently being built. Some of these are directly focused on providing insurance solutions whilst others are more generalized and may be integrated to bolster direct insurance applications. Those that are particularly relevant to RiskBazaar are listed below.
 
