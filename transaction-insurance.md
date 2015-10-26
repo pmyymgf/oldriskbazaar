@@ -20,7 +20,7 @@ All other users would only need to download the rating and ```hash(TR)``` to be 
 
 An unalterable public commitment to the TR needs to be public and on the blockchain for moderator review, transaction insurance and other potential services that require analysing the details of the trade itself.
 
-__October 2nd (OpenBazaar Slack)__
+__October 2nd__
 
 It was not possible to fit all the necessary data in the 40 bytes of the ```OP_RETURN``` operator.
 
@@ -60,5 +60,5 @@ Hash: Hash160
 ```
 This review block can be validated to prove the person who created it was in a transaction with the vendor. Provisionally the vendor will be required to store it but these will eventually need to be securely stored (In the meantime the buyer still has proof the trade took place). 
 
-__October 3rd (OpenBazaar Slack)__
+__October 3rd__
 
