@@ -22,7 +22,7 @@ http://www.zyen.com/now-and-zyen/37-knowledge/articles-and-reviews/1510-intercha
 
 __Dynamis__
 
-Joshua Davis has built a decentralized application for a mutual unemployment insurance arrangement on Ethereum.
+Joshua Davis is building a decentralized application for a mutual unemployment insurance arrangement on Ethereum.
 
 * Oraclize
 * Onename
