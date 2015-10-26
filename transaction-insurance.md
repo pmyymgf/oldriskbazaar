@@ -54,7 +54,9 @@ Review: "Good stuff. Took long to deliver tho"
 Hash: Hash160
 
 30c2507be3fb5ad077a8227031dfd329d9641ab430c2507be3fb5ad077a8227031dfd329d9641ab430c2507be3fb5ad077a8227031dfd329d9641ab431dfd3
------END OPENBAZAAR VENDOR RATING-----} 
+-----END OPENBAZAAR VENDOR RATING-----
+
+} 
 
 ```
 
