@@ -72,3 +72,47 @@ For the buyer, we've designed things so they remain ​_anonymous_​ by default
 Online identity is tricky. It's often thought of as one problem, but in reality it is an entire family of problems. Some of those are solved problems, and some are not. Soon I'll write a few high-level articles explaining the family of problems, how they are related, which are solved and which aren't, and how some are at direct odds with others.
 
 As for transaction insurance (and insurance in general), I strongly suspect that insurers will only deal with vendors/buyers/moderators that have confirmed their meatspace ID, and I think that's totally doable within the OB framework. It's just something that isn't ​_by default_​.
+
+__October 4th__
+
+
+1. Can we have the transaction summary formatted in JSON instead of the PGP style? It will just be easier to parse the data (thinking of 3rd party tools as well). 
+2. Can we include the trade receipt hash in the transaction summary? Just means we can use that for the applications that Austin, @michaelfolkson and I want to develop.
+
+Since metadata isn't being put into `OP_RETURN`, this means that the Vendor can sign the payout transaction from escrow in stage 3 of the trade flow, and the Buyer can make the final signature and broadcast for stage 4. Whether or not the partially and fully signed tx are included in the trade receipt is up for grabs, but probably unnecessary. (edited)
+:+1:1  
+
+drwasho [4:42 PM] 
+Ok, I've been reviewing the transaction summary schema. I formatted the tx summary to JSON, nested a couple of fields where it made sense. One bit that I nested under an object called `transaction` are the fields that the Vendor's signature is covering.  I also added:
+
+1) the vendor's pubkey (not just their GUID, otherwise you can't verify the vendor's signature),  
+2) the trade receipt hash
+
+JSON formatting instead of PGP
+
+```{
+  "tx_summary" : {
+      "vendor" : {
+        "guid" : "e2fdb78bca93788ff073df029badcaeab622594a",
+        "pubkey" : "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      },
+      "transaction" : {
+        "listing" : "59668109f673e96303a8e82948d6df65da67be75",
+        "bitcoin_address" : "3HB5XMLmzFVj8ALj6mfBsbifRoD4miY36v",
+        "price" : "0.15",
+        "buyer_pubkey" : "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "vendor_tx_signature" : "72c3f7ee7cfc90f3b40903b2f2a294860599928272c3f7ee7cfc90f3b40903b2f2a294860599928272c3f7ee7cfc90f3b40903b2f2a2948605999282e7cfc90fca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+      "txid" : "e6612e701d1b073d28514fb1dcb545bc522b312265f8c2ad3e3e3a2555931767",
+      "trade_receipt_hash160" : "yyyyyyyyyyyyyyyyyy",
+      "rating" : {
+        "feedback": 4,
+        "quality" : 5,
+        "description" : 4,
+        "delivery_time" : 2,
+        "customer_service" : 3,
+        "review" : "Good stuff. Took long time to delivery though."
+      }
+  },
+  "buyer_signature" : "30c2507be3fb5ad077a8227031dfd329d9641ab430c2507be3fb5ad077a8227031dfd329d9641ab430c2507be3fb5ad077a8227031dfd329d9641ab431dfd3"
+}
