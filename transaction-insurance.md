@@ -21,6 +21,7 @@ All other users would only need to download the rating and ```hash(TR)``` to be 
 An unalterable public commitment to the TR needs to be public and on the blockchain for moderator review, transaction insurance and other potential services that require analysing the details of the trade itself.
 
 __October 2nd (OpenBazaar Slack)__
+
 It was not possible to fit all the necessary data in the 40 bytes of the ```OP_RETURN``` operator.
 
 The alternative plan as described by @cpacia is to create compact proofs that a buyer was in a trade with a vendor (mini trade receipt). 
