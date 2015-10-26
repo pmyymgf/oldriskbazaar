@@ -67,8 +67,6 @@ Preventing vendors from creating fake trades/reviews is not possible (otherwise 
 
 It is important that a vendor's identity (if only a pseudonym) is publicly attached to every trade so that their reputation can be assessed. The vendor is always known via his GUID and this is available in the contract and trade receipt. So we can always get the set of all transactions associated with any vendor. The vendors are pseudonymous by default, and can optionally tie their real world identity to their pseudonym. (though once this is done, it's permanent).
 
-W.r.t. your observation that vendors should be attached to every trade (publicly), I agree, and that's part of our design. The vendor is always known via his GUID, which is always available in the contract and trade receipt. So we can always get the set of all transactions associated with any vendor. The vendors are pseudonymous by default, and can optionally tie their meatspace ID to their pseudonym (though once this is done, it's permanent).
-
 For the buyer, we've designed things so they remain ​_anonymous_​ by default (at least w.r.t. contract data... an adversary observing the network could still get their IP address). They can optionally become pseudonymous (linking together whatever subset of their trades they desire). If they want to, they can even reveal their meatspace ID and attach it to whatever subset of trades they want.
 
 Online identity is tricky. It's often thought of as one problem, but in reality it is an entire family of problems. Some of those are solved problems, and some are not. Soon I'll write a few high-level articles explaining the family of problems, how they are related, which are solved and which aren't, and how some are at direct odds with others.
