@@ -116,3 +116,4 @@ JSON formatting instead of PGP
   },
   "buyer_signature" : "30c2507be3fb5ad077a8227031dfd329d9641ab430c2507be3fb5ad077a8227031dfd329d9641ab430c2507be3fb5ad077a8227031dfd329d9641ab431dfd3"
 }
+```
