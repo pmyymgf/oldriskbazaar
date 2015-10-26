@@ -30,6 +30,8 @@ The alternative plan as described by @cpacia is to create compact proofs that a 
 
 2) Vendor responds with a signature covering the bitcoin address, amount to be paid, listing hash and a buyer public key (which is used to sign a public review)
 
+3) Once the buyer has funded the address a review can be created:
+
 ```
 -----BEGIN OPENBAZAAR VENDOR RATING-----
 Version: OpenBazaar-Server 0.1
@@ -56,7 +58,7 @@ Hash: Hash160
 30c2507be3fb5ad077a8227031dfd329d9641ab430c2507be3fb5ad077a8227031dfd329d9641ab430c2507be3fb5ad077a8227031dfd329d9641ab431dfd3
 -----END OPENBAZAAR VENDOR RATING-----
 ```
+This review block can be validated to prove the person who created it was in a transaction with the vendor. Provisionally the vendor will be required to store it but these will eventually need to be securely stored (In the meantime the buyer still has proof the trade took place). 
 
-
-
+__October 3rd (OpenBazaar Slack)__
 
