@@ -29,4 +29,6 @@ Joshua Davis is building a decentralized application for a mutual unemployment i
 * Augur
 * Factom
 * Tierion
-* 
+* Skuchain http://www.skuchain.com
+* Block Verify http://www.blockverify.io
+* Provenance https://www.provenance.org
