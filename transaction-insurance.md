@@ -10,7 +10,7 @@ Bitcoin's scripting language contains the ```OP_RETURN``` operator which allows 
 
 There has been much discussion on the OpenBazaar Slack channel on what should be included in the ```OP_RETURN``` balancing efficiency and security concerns. 
 
-@austin proposed storing ```hash(RA || hash (TR))``` rather than ```hash(RA)``` in the ```OP_RETURN``` addressing the vulnerability of one party keeping the same rating data but swapping out the rest of the completed TR. This would allow the insurance adjuster to be sure that he is looking at the relevant TR.
+@austin proposed storing ```hash(RA || hash (TR))``` rather than ```hash(RA)``` in the ```OP_RETURN``` addressing the vulnerability of one party keeping the same rating data but swapping out the rest of the completed TR. This would allow the insurance adjuster to be sure that he is looking at the relevant TR
 
 TR = fully completed trade receipt
 
