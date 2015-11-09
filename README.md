@@ -84,6 +84,10 @@ __Oraclize__
 
 http://blog.oraclize.it/2015/11/04/oraclize-official-launch/
 
+__Traity__
+
+https://startups.traity.com/documentation/insurance
+
 * Onename
 * Augur
 * Factom
