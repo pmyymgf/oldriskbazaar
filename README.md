@@ -32,6 +32,10 @@ __BTC Relay__
 
 https://github.com/ethereum/btcrelay/
 
+__Rootstock__
+
+http://www.rootstock.io/#smart-contracts
+
 ## Relevant media articles
 Software is eating insurance: 10 VCs sound off on insurance tech disruption (cbinsights.com)
 
