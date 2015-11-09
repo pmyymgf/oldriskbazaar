@@ -11,8 +11,9 @@ RiskBazaar aims to concurrently build a P2P marketplace for __risk contracts__ a
 ## The technologies required to build RiskBazaar
 Smart contracts
 
-* Bitcoin
-* Ethereum
+__Bitcoin__
+
+__Ethereum__
 
 Introduction to development on Ethereum - DApps for Beginners
 
