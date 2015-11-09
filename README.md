@@ -1,12 +1,12 @@
 # RiskBazaar
 
+RiskBazaar aims to concurrently build a P2P risk marketplace and provide assistance to traditional insurance companies seeking to onboard some of their functions to the blockchain.
+
 ## Theory
 1. [Building a risk market for the digital age](building-a-risk-market.md) by Michael Folkson
 2. [Structuring insurance as a Ricardian contract](structuring-insurance-as-a-Ricardian-contract.md) by Michael Folkson
 3. [Leveraging the OpenBazaar protocol for RiskBazaar](openbazaar-protocol.md) by Michael Folkson
 4. [Transaction insurance in OpenBazaar - The first application] (transaction-insurance.md) by Michael Folkson
-
-RiskBazaar aims to concurrently build a P2P risk marketplace and provide assistance to traditional insurance companies seeking to onboard some of their functions to the blockchain.
 
 ## Relevant media articles
 Software is eating insurance: 10 VCs sound off on insurance tech disruption (cbinsights.com)
