@@ -66,7 +66,10 @@ http://insidebitcoins.com/news/how-tierion-gives-new-purpose-to-the-blockchain/3
 
 https://tierion.com
 
-* Oraclize
+__Oraclize__
+
+http://blog.oraclize.it/2015/11/04/oraclize-official-launch/
+
 * Onename
 * Augur
 * Factom
