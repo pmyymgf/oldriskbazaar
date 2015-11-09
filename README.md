@@ -9,7 +9,10 @@ RiskBazaar aims to concurrently build a P2P marketplace for __risk contracts__ a
 4. [Transaction insurance in OpenBazaar - The first application] (transaction-insurance.md) by Michael Folkson
 
 ## The technologies required to build RiskBazaar
-Smart contracts (Bitcoin and Ethereum)
+Smart contracts
+
+*Bitcoin
+*Ethereum
 
 
 
