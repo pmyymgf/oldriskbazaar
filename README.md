@@ -44,6 +44,8 @@ __Tierion__
 
 "For each record, a blockchain receipt is generated that contains all the information needed to verify the content and timestamp the record. Generating a blockchain receipt for each survey response makes it possible for anyone to verify the data without relying on a trusted third party. Auditing each result can be done by verifying the receipt. The receipts through verifying all records of time and content, manage to reduce fraud, errors and the costs of auditing claims"
 
+http://insidebitcoins.com/news/how-tierion-gives-new-purpose-to-the-blockchain/34851
+
 https://tierion.com
 
 * Oraclize
