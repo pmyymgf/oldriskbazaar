@@ -37,6 +37,10 @@ __Rootstock__
 http://www.rootstock.io/#smart-contracts
 
 ## Relevant media articles
+Building a risk market for the digital age using Bitcoin (bitcoinmagazine.com)
+
+https://bitcoinmagazine.com/articles/building-a-risk-market-for-the-digital-age-using-bitcoin-1443625202
+
 Software is eating insurance: 10 VCs sound off on insurance tech disruption (cbinsights.com)
 
 https://www.cbinsights.com/blog/insurance-tech-vc-commentary/
