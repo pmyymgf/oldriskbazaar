@@ -6,13 +6,19 @@
 3. [Leveraging the OpenBazaar protocol for RiskBazaar](openbazaar-protocol.md) by Michael Folkson
 4. [Transaction insurance in OpenBazaar - The first application] (transaction-insurance.md) by Michael Folkson
 
-## Articles
+RiskBazaar aims to concurrently build a P2P risk marketplace and provide assistance to traditional insurance companies seeking to onboard some of their functions to the blockchain.
+
+## Relevant media articles
 Software is eating insurance: 10 VCs sound off on insurance tech disruption (cbinsights.com)
 
 https://www.cbinsights.com/blog/insurance-tech-vc-commentary/
 
+How blockchain technology could revolutionize the $1.1 trillion insurance industry
+
+http://insidebitcoins.com/news/how-blockchain-technology-could-revolutionize-the-1-1-trillion-insurance-industry/28516
+
 ## Other Projects
-RiskBazaar is clearly not being developed in a vacuum. There are a multitude of other projects and applications that are currently being built. Some of these are directly focused on providing insurance solutions whilst others are more generalized and may be integrated to bolster direct insurance applications. Those that are particularly relevant to RiskBazaar are listed below.
+RiskBazaar is clearly not being developed in a vacuum. There are a multitude of other projects and applications that are currently being built by other teams. Some of these are directly focused on providing insurance solutions whilst others are more generalized and may be integrated to bolster direct insurance applications. Those that are particularly relevant to RiskBazaar are listed below.
 
 __InterChainZ__
 
@@ -24,11 +30,26 @@ __Dynamis__
 
 Joshua Davis is building a decentralized application for a mutual unemployment insurance arrangement on Ethereum.
 
+The Dynamis whitepaper is here:
+
+http://nebula.wsimg.com/1ea036de40121e9a7d9798eca609eeb3?AccessKeyId=4EC7FC0F7E7F5389BE71&disposition=0&alloworigin=1
+
+He was interviewed on Let's Talk Bitcoin on 21st March 2015.
+
+https://letstalkbitcoin.com/blog/post/lets-talk-bitcoin-197-smart-contracts-and-automating-insurance
+
+__Tierion__
+
+"Tierion is a simple and powerful way to collect data, record it in the blockchain, and slingshot it to the applications that drive your business. Protect the integrity of your data with the world's most secure and resilient database - the Bitcoin blockchain."
+
+"For each record, a blockchain receipt is generated that contains all the information needed to verify the content and timestamp the record. Generating a blockchain receipt for each survey response makes it possible for anyone to verify the data without relying on a trusted third party. Auditing each result can be done by verifying the receipt. The receipts through verifying all records of time and content, manage to reduce fraud, errors and the costs of auditing claims
+
+https://tierion.com
+
 * Oraclize
 * Onename
 * Augur
 * Factom
-* Tierion
 * Skuchain http://www.skuchain.com
 * Block Verify http://www.blockverify.io
 * Provenance https://www.provenance.org
