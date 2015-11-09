@@ -22,7 +22,9 @@ A 101 Noob Intro to Programming Smart Contracts on Ethereum
 
 http://consensys.github.io/developers/articles/101-noob-intro/
 
+__BTC Relay__
 
+https://github.com/ethereum/btcrelay/
 
 ## Relevant media articles
 Software is eating insurance: 10 VCs sound off on insurance tech disruption (cbinsights.com)
