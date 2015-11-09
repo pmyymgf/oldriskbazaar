@@ -22,6 +22,10 @@ A 101 Noob Intro to Programming Smart Contracts on Ethereum
 
 http://consensys.github.io/developers/articles/101-noob-intro/
 
+Solidity documentation and tutorials
+
+https://ethereum.github.io/solidity//docs/home/
+
 __BTC Relay__
 
 https://github.com/ethereum/btcrelay/
