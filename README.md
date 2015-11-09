@@ -1,6 +1,6 @@
 # RiskBazaar
 
-RiskBazaar aims to concurrently build a P2P marketplace for "risk contracts" and provide assistance to traditional insurance companies seeking to onboard some of their functions to the blockchain.
+RiskBazaar aims to concurrently build a P2P marketplace for __risk contracts__ and provide assistance to traditional insurance companies seeking to onboard some of their functions to the blockchain.
 
 ## Theory
 1. [Building a risk market for the digital age](building-a-risk-market.md) by Michael Folkson
