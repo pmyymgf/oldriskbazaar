@@ -14,6 +14,14 @@ Smart contracts
 * Bitcoin
 * Ethereum
 
+Introduction to development on Ethereum - DApps for Beginners
+
+https://dappsforbeginners.wordpress.com
+
+A 101 Noob Intro to Programming Smart Contracts on Ethereum
+
+http://consensys.github.io/developers/articles/101-noob-intro/
+
 
 
 ## Relevant media articles
