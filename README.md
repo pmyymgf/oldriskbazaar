@@ -8,7 +8,9 @@ RiskBazaar aims to concurrently build a P2P marketplace for __risk contracts__ a
 3. [Leveraging the OpenBazaar protocol for RiskBazaar](openbazaar-protocol.md) by Michael Folkson
 4. [Transaction insurance in OpenBazaar - The first application] (transaction-insurance.md) by Michael Folkson
 
-## The technologies required to build RiskBazaar
+## Smart contracts on RiskBazaar
+
+RiskBazaar is currently blockchain agnostic and is building smart contracts on both Bitcoin and Ethereum. Bitcoin currently offers greater security and a token with lower volatility due to greater maturity and a higher market capitalization. Ethereum offers a quasi Turing complete programming language. In a Let's Talk Bitcoin episode (E246, September 2015) Nick Szabo made the comparison between a pocket calculator vs a general purpose computer to highlight the difference in Bitcoin and Ethereum's smart contract functionality. It is certainy plausible that Bitcoin will continue to be used as the currency of smart contracts especially once sidechains are implemented to connect the two blockchains.
 
 __Bitcoin__
 
