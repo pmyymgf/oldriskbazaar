@@ -49,7 +49,19 @@ How blockchain technology could revolutionize the $1.1 trillion insurance indust
 
 http://insidebitcoins.com/news/how-blockchain-technology-could-revolutionize-the-1-1-trillion-insurance-industry/28516
 
-## Other Projects
+## RiskBazaar collaborations
+Blockchain University Hackathon (San Francisco) - Grade A+
+
+Used Tierion to store exam record receipts on the Bitcoin blockchain. Used BitGo API to write a smart contract with a payoff dependent on an exam result.
+
+Write this up - TO DO
+
+Tierion
+
+Ben
+
+
+## External projects
 RiskBazaar is clearly not being developed in a vacuum. There are a multitude of other projects and applications that are currently being built by other teams. Some of these are directly focused on providing insurance solutions whilst others are more generalized and may be integrated to bolster direct insurance applications. Those that are particularly relevant to RiskBazaar are listed below.
 
 __InterChainZ__
