@@ -7,9 +7,10 @@ RiskBazaar aims to concurrently build a P2P marketplace for __risk contracts__ a
 2. [Structuring insurance as a Ricardian contract](structuring-insurance-as-a-Ricardian-contract.md) by Michael Folkson
 3. [Leveraging the OpenBazaar protocol for RiskBazaar](openbazaar-protocol.md) by Michael Folkson
 4. [Transaction insurance in OpenBazaar - The first application] (transaction-insurance.md) by Michael Folkson
-5. Oracles and Risk Contracts by Washington Sanchez 
+5. [The business case for using blockchains in the insurance industry] (insurance-blockchain-business-case.md) by Michael Folkson
+6. Oracles and Risk Contracts by Washington Sanchez 
 https://medium.com/@therealopenbazaar/oracles-risk-contracts-768c09cee46c
-6. The Birth of Insurance by Nick Szabo 
+7. The Birth of Insurance by Nick Szabo 
 http://szabo.best.vwh.net/insurance.html
 
 ## Smart contracts on RiskBazaar
