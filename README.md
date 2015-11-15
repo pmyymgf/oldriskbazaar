@@ -21,7 +21,7 @@ __Bitcoin__
 
 __OpenBazaar__
 
-[Open Bazaar REST API resources](open-bazaar-rest-API.md)
+[Open Bazaar REST API resources](Open-Bazaar/open-bazaar-rest-API.md)
 
 
 
