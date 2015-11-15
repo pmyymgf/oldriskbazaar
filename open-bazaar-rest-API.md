@@ -2,6 +2,350 @@
 
 http://drwasho.github.io/openbazaar-restapi-ui/
 
+OpenBazaar API Tools
+Getting Started
+You must be running the OpenBazaar server for this page to work! Ubuntu users you will need to install 'python-dev', 'libffi-dev', and 'gcc' before running 'requirements.txt' (check the installation instructions to know what I'm talking about.
+
+During development, most of the network will be using the Testnet, so run your servers using the following command: $ python openbazaard.py start --testnet
+
+You can get the code for this page here.
+
+Latest features:
+Websockets now added! Supports: 'get_vendors', 'get_moderators', and 'get_homepage_listings'!
+Server
+Add your own server IP address below; by default it is set to localhost (i.e. you're running the OpenBazaar daemon on your computer). The default port for the REST API is 18469, while the default websocket port is 18466. If your server is hosted remotely, your port must be open for this to work!
+
+To connect to your remote server, run the OpenBazaar server with the following command:
+
+$ python openbazaard.py start -t -r [IP address of your server].
+
+Please note that running the server this way is not secure, and for testing purposes only. I've tested this with Digital Ocean + Ubuntu 14.04, and it works great.
+
+Server IP Address:
+
+
+
+
+Known Bugs
+Websockets won't work with https, only http. You're better off cloning the repo into your machine and running the index.html file directly
+Websocket Panel
+Controls
+Start here
+
+Open WS Connection
+Discover
+
+Get Vendors
+Get Moderators
+Get Homepage Listings
+Search for listings
+
+KeywordsSearch
+Send Chat Message
+
+GUID
+
+Handle
+
+Message
+
+Subject
+
+Message Type
+
+Key
+
+Send Chat
+
+Close WS Connection
+Discovery
+View Profile
+GUID:
+
+
+View Listings
+GUID:
+
+
+View Contract
+GUID:
+
+Contract ID: 
+
+
+View Followers/Following
+Get Followers:
+
+
+
+Get Following:
+
+My Node
+My Profile
+
+
+
+
+
+Contract ID:
+
+
+
+
+Profile Settings
+Update Your Profile
+Name:
+
+Handle: 
+
+About: 
+
+Short Description: 
+
+Location: 
+
+Website: 
+
+Email: 
+
+Vendor: 
+
+NSFW: 
+
+Add a Moderator: 
+
+
+Add Social Accounts
+Select Social Account:
+
+Username: 
+
+Proof URL: 
+
+
+Moderator Settings
+Become a Moderator
+Become a Moderator
+Follow/Unfollow User
+Follow:
+
+
+
+Unfollow:
+
+
+
+Images
+View Images
+If the GUID field is empty, your own images will be queried.
+
+GUID: 
+
+Image Hash: 
+
+
+Upload Images
+You will not be able to upload images without setting your 'name' and 'location' for your profile.
+
+Image:
+
+Base64: 
+
+
+
+Notifications
+Commands
+Get Notifications
+
+
+
+Mark Notification as Read
+
+Notification ID:
+
+
+
+Broadcast Message
+
+Message:
+
+
+
+Trade Flow
+Stage 1: Create Listing
+Item
+
+Title:
+
+Description:
+
+Price:
+
+Currency Code:
+
+Category:
+
+Image Hash:
+
+Condition:
+
+Order
+
+Process Time:
+
+Terms and Conditions:
+
+Returns:
+
+SKU:
+
+NSFW:
+
+Keywords:
+
+Shipping
+
+Shipping Origin:
+
+Free Shipping:
+
+Shipping - Domestic:
+
+Estimated Delivery - Domestic:
+
+Shipping - International:
+
+Estimated Delivery - International:
+
+Shipping Currency Code:
+
+Moderators
+
+Moderators (GUID):
+
+Metadata
+
+Expiration:
+
+Metadata Category:
+
+Test
+
+
+
+Stage 2: Place an Order
+Order Details
+
+Contract ID (hash):
+
+Quantity:
+
+Buyer Details
+
+Buyer Name:
+
+Address:
+
+City:
+
+State:
+
+Postcode:
+
+Country:
+
+Moderator
+
+Moderator GUID:
+
+
+
+Stage 3: Confirm Order
+Order Details
+
+Select order:
+
+Payout Address:
+
+Comments:
+
+Physical Item
+
+Shipper:
+
+Tracking Number:
+
+Estimated delivery:
+
+Digital Content
+
+URL:
+
+Password:
+
+
+
+Stage 4: Complete Order
+Ratings and Review
+
+Order ID:
+
+Feedback: stars
+
+Quality: stars
+
+Product Description: stars
+
+Delivery Time: stars
+
+Customer service: stars
+
+Review:
+
+
+
+Network
+Get a list of connected peers
+
+Display routing table
+
+
+Settings
+View Settings
+
+Change Settings
+Note: All fields are required for this form to be submitted!
+
+Refund Address
+
+Currency Code 
+
+Country 
+
+Language 
+
+Time Zone 
+
+Notifications 
+
+Shipping Addresses 
+
+Blocked Nodes 
+
+Libbitcoin Server 
+
+SSL 
+
+Terms and Conditions 
+
+Refund Policy 
+
+
+
+Safe Node Shutdown
+
+
+
 https://docs.google.com/document/d/1IZQQBw-LpMFFTk6T76ENZ4z5LVEkM5LDm9Qb8c-YoKo/edit
 
 @GET('^/api/v1/get_image')
