@@ -19,6 +19,12 @@ RiskBazaar is currently blockchain agnostic and is building smart contracts on b
 
 __Bitcoin__
 
+__OpenBazaar__
+
+[Open Bazaar REST API resources](open-bazaar-rest-API.md)
+
+
+
 __Ethereum__
 
 Introduction to development on Ethereum - DApps for Beginners
