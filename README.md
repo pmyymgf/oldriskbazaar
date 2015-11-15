@@ -33,6 +33,10 @@ Programming language: Solidity - Documentation and tutorials
 
 https://ethereum.github.io/solidity//docs/home/
 
+Escrow contract on Ethereum using Solidity
+
+https://github.com/frozeman/example-escrow-dapp/blob/master/escrow.sol
+
 __BTC Relay__
 
 https://github.com/ethereum/btcrelay/
