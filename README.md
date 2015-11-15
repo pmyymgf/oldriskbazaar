@@ -63,6 +63,10 @@ Write this up - TO DO
 
 Tierion
 
+Improving insurance with the blockchain
+
+https://tierion.com/blog/improving-insurance-with-the-blockchain/
+
 Ben
 
 
