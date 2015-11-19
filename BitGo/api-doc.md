@@ -1,3 +1,5 @@
+https://docs.google.com/document/d/1eIVhuF8qJyAKbRSUKgrZCOFhtRjK82700gVlNGcxfLI/edit#
+
 The BitGo Platform API
 Build your Bitcoin application on the secure and scalable foundation chosen by the world’s leading exchanges and institutions. Learn more at bitgo.com/platform.
 Robust Wallet API and SDKs
