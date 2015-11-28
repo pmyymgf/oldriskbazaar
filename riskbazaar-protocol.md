@@ -1,5 +1,11 @@
 #The RiskBazaar protocol#
 
+CheckLockTimeVerify
+
+https://github.com/bitcoin/bips/blob/master/bip-0065.mediawiki
+
+https://bitcoinmagazine.com/articles/checklocktimeverify-or-how-a-time-lock-patch-will-boost-bitcoin-s-potential-1446658530
+
 Multichain white paper (Gideon Greenspan)
 http://www.multichain.com/download/MultiChain-White-Paper.pdf
 
