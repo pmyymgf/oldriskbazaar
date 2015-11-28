@@ -8,6 +8,10 @@ https://bitcoinmagazine.com/articles/checklocktimeverify-or-how-a-time-lock-patc
 
 __Blockchain messaging__
 
+CoinSpark
+http://coinspark.org
+https://github.com/coinspark
+
 Multichain white paper (Gideon Greenspan)
 http://www.multichain.com/download/MultiChain-White-Paper.pdf
 
