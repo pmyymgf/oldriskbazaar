@@ -1,3 +1,5 @@
+#The RiskBazaar protocol#
+
 Multichain white paper (Gideon Greenspan)
 http://www.multichain.com/download/MultiChain-White-Paper.pdf
 
