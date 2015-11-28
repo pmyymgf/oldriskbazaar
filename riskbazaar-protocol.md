@@ -13,4 +13,8 @@ http://www.multichain.com/download/MultiChain-White-Paper.pdf
 4. The receiving node verifies the message's validity by checking its hash against the hash embedded in the original transaction.
 5. If the message is valid, the receiving node completes the loop by sending back a second transaction to the sender containing the same message hash."
 
+"Once the first transaction is confirmed on the blockchain, the recipient can prove: (a) who sent the message, since the sender reveals their address when signing the transaction, (b) the time the message was sent, since the transaction is embedded in a timestamped block and (c) the message's content since the hash is part of the transaction that was signed. However, none of this is sufficient for the sender to prove that a particular message was received by the recipient. Indeed malicious senders could even embed a hash of one message while sending a completely different message in step 3 above. Therefore we require a second transaction in which the recipient sends back a receipt containing the same hash. Once this transaction is confirmed, both parties can prove all the details of the correspondence that took place."
+
+"As with public messages in CoinSpark, such a system could also be used to broadcast information openly to all network participants, with the message hash on the blockchain serving as proof of the message's content and publication time. In this case we simply skip the restriction on who may retrieve the message from the originating node, and do not require a second transaction to confirm the message's receipt. Each message also contains a unique random "salt" which affects the hash but is not displayed to the user. This prevents message snooping via dictionary attacks."
+
 
