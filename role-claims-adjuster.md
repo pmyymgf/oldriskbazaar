@@ -1,1 +1,3 @@
 # The role of the claims adjuster - the major challenge (and opportunity)
+
+Explain what the claims adjuster is......
