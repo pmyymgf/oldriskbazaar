@@ -9,9 +9,10 @@ RiskBazaar aims to concurrently build a P2P marketplace for __risk contracts__ a
 4. [The RiskBazaar protocol](riskbazaar-protocol.md) by Michael Folkson
 5. [Transaction insurance in OpenBazaar - The first application] (transaction-insurance.md) by Michael Folkson
 6. [The business case for using blockchains in the insurance industry] (insurance-blockchain-business-case.md) by Michael Folkson
-7. Oracles and Risk Contracts by Washington Sanchez 
+7. [The role of the claims adjuster - the major challenge (and opportunity)] (role-claims-adjuster.md) by Michael Folkson
+8. Oracles and Risk Contracts by Washington Sanchez 
 https://medium.com/@therealopenbazaar/oracles-risk-contracts-768c09cee46c
-8. The Birth of Insurance by Nick Szabo 
+9. The Birth of Insurance by Nick Szabo 
 http://szabo.best.vwh.net/insurance.html
 
 ## Smart contracts on RiskBazaar
