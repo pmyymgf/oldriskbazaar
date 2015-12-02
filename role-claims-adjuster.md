@@ -14,4 +14,10 @@ Insurance Theory and Practice (Rob Thoyts)
 
 "An insured loss must be fortuitous. Insurance covers against unexpected and unwelcome events and it is a fundamental assumption of the common pool concept that its members do not wish the loss to occur. This is reinforced by a common clause in all classes of voer that the insurer is not liable if the policyholder fails to take reasonable care. The intent is to reduce moral hazard by requiring the policyholder to act as if they are not insured and facing the financial costs of any loss."
 
+"The courts take the view that one of the risks that a policyholder insures against is their own carelessness and have interpreted 'reasonable precautions' clauses as requiring that the policyholder is reckless rather than negligent before the insurer is entitled to avoid liability."
+
+"The clear message to insurers was that if they wished to exclude certain types of conduct, it was for them to introduce clear policy conditions or warranties spelling this out to the policyholder."
+
+
+
 
