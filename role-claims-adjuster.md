@@ -22,6 +22,20 @@ Insurance Theory and Practice (Rob Thoyts)
 
 "Fraud - a dishonest intent to gain or cause loss to another facilitated by: i) making a false or misleading representation ii) failing to disclose information when legally obliged to do so iii) abusing a position of trust"
 
+"Some are conceived as entirely fraudulent claims in that the alleged loss did not happen or alternatively the loss was deliberately caused by the policyholder. More commonly, a genuine loss has occurred but the policyholder overstates the amount of damage or claims non-existent property has been lost or stolen. It can even be fraud when the policyholder lies to improve their chances of recovering in respect of a genuine claim. More controversially, there is the question of exaggeration of the amount claimed, where the cause of loss and the description of the items lost or damaged are stated truthfully."
+
+"Merely making a claim for a loss that is not covered is not fraudulent in the absence of any falsehood. There seems no reason why a policyholder should not submit the claim for the insurer to determine.... The burden of proof is on the insurer in such cases."
+
+"The effect of fraud is to disallow the entire claim."
+
+"The right to avoid the claim does not operate retrospectively. Previous claims payments made under the policy cannot be recovered by the insurer. Neither can interim payments made prior to the fraudulent act."
+
+"In Agapitos v Agnew 2002, the court distinguished between 'material fraud' where the claim was false or exaggerated and 'fraudulent devices' where a fair claim was fraudulently embellished (for example, submitting a forged receipt for an item genuinely stolen). Material frauds permit avoidance of the contract from the date of the fraud, but fraudulent devices merely permit avoidance of the claim without cancelling cover for the future."
+
+"In July 2009, the ABI estimated that general insurance fraud costs 1.9 billion GBP equivalent to 6 per cent of the average individual's annual insurance cost. As many as 13 per cent of claims were estimated to be fraudulent."
+
+
+
 
 
 
