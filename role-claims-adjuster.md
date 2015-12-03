@@ -18,6 +18,11 @@ Insurance Theory and Practice (Rob Thoyts)
 
 "The clear message to insurers was that if they wished to exclude certain types of conduct, it was for them to introduce clear policy conditions or warranties spelling this out to the policyholder."
 
+"It is normal practice for insurers to impose conditions concerning the period during which a claim must be notified."
+
+"Fraud - a dishonest intent to gain or cause loss to another facilitated by: i) making a false or misleading representation ii) failing to disclose information when legally obliged to do so iii) abusing a position of trust"
+
+
 
 
 
