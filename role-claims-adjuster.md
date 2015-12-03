@@ -34,6 +34,14 @@ Insurance Theory and Practice (Rob Thoyts)
 
 "In July 2009, the ABI estimated that general insurance fraud costs 1.9 billion GBP equivalent to 6 per cent of the average individual's annual insurance cost. As many as 13 per cent of claims were estimated to be fraudulent."
 
+"In 1994, the Claims & Underwriting Exchange (CUE) was set up by a consortium of insurers. The aim was to maintain a central database of claims information from the member insurers. This woud enable an insurer to check the previous claims history of a proposer but more importantly  enables an insurer to check whether multiple claims are being made in respect of the same incident. One easy way to maximise the benefit of an insurance fraud is to take out cover with a number of companies, invent or stage a loss and then submit a number of fictitious claims."
+
+"It is difficult to argue against the proposition that if an insurer knowingly offers less than a full indemnity, that too is fraud. For example, an insurer who knowingly represents to a policyholder that a particular loss is not covered when they know full well that it is, commits fraud."
+
+"What is far more likely is for economic duress to be used to force a policyholder to accept a settlement offer below a fair indemnity.... By witholding payments an insurer can place the policyholder in such a position that their cash flow is badly interrupted and they may be left with no choice but to accept a low offer as a full and final settlement."
+
+
+
 
 
 
