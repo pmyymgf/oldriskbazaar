@@ -119,6 +119,10 @@ __Traity__
 
 https://startups.traity.com/documentation/insurance
 
+__Trust Davis__
+
+https://www.youtube.com/watch?v=UXjIl0LZNOY
+
 * Onename
 * Augur
 * Factom
