@@ -1,6 +1,7 @@
 # MULTISIGS - PART TWO - SPENDING FROM A 2-of-3 MULTISIG ADDRESS
 # This simple wallet works with bitcoind and will only work with 2-of-3 multisigs
 # wobine code for world bitcoin network blackboard 101
+# https://www.youtube.com/watch?v=OSA1pwlaypc
 # Educational Purposes only
 # Python 2.7.6 and relies on bitcoind & bitcoinrpc & wobine's github connection file
 # We had to change the bitcoinrpc 'connection.py' file to add multisig support
