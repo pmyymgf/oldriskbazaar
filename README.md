@@ -14,6 +14,7 @@ RiskBazaar aims to concurrently build a P2P marketplace for __risk contracts__ a
 https://medium.com/@therealopenbazaar/oracles-risk-contracts-768c09cee46c
 9. The Birth of Insurance by Nick Szabo 
 http://szabo.best.vwh.net/insurance.html
+10. A Formal Language for Analyzing Contracts by Nick Szabo http://szabo.best.vwh.net/contractlanguage.html
 
 ## Smart contracts on RiskBazaar
 
