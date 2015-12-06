@@ -11,9 +11,9 @@ of public keys to use to validate those signatures. This is called m-of-n and in
    mhAXF4Eq7iRyvbYk1mpDVBiGdLP3YbY6Dm
    > bitcoin-cli -regtest getnewaddress
     moaCrnRfP5zzyhW8k65f6Rf2z5QpvJzSKe
-    > bitcoin-cli -regtest getnewaddress
+   > bitcoin-cli -regtest getnewaddress
     mk2QpYatsKicvFVuTAQLBryyccRXMUaGHP
     
-     > NEW_ADDRESS1=mhAXF4Eq7iRyvbYk1mpDVBiGdLP3YbY6Dm
-    > NEW_ADDRESS2=moaCrnRfP5zzyhW8k65f6Rf2z5QpvJzSKe
-    > NEW_ADDRESS3=mk2QpYatsKicvFVuTAQLBryyccRXMUaGHP
+   > NEW_ADDRESS1=mhAXF4Eq7iRyvbYk1mpDVBiGdLP3YbY6Dm
+   > NEW_ADDRESS2=moaCrnRfP5zzyhW8k65f6Rf2z5QpvJzSKe
+   > NEW_ADDRESS3=mk2QpYatsKicvFVuTAQLBryyccRXMUaGHP
