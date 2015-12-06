@@ -7,8 +7,7 @@ In this subsection we will create a P2SH multisig address, spend satoshis to it 
 Creating a multisig address is easy. Multisig outputs have two parameters, the minimum number of signatures required (m) and the number
 of public keys to use to validate those signatures. This is called m-of-n and in this case we'll be using 2-of-3.
 
-```
-JSON
+``` JSON
 {
    > bitcoin-cli -regtest getnewaddress
    mhAXF4Eq7iRyvbYk1mpDVBiGdLP3YbY6Dm
@@ -20,5 +19,6 @@ JSON
      > NEW_ADDRESS1=mhAXF4Eq7iRyvbYk1mpDVBiGdLP3YbY6Dm
     > NEW_ADDRESS2=moaCrnRfP5zzyhW8k65f6Rf2z5QpvJzSKe
     > NEW_ADDRESS3=mk2QpYatsKicvFVuTAQLBryyccRXMUaGHP
+    
 }
 ```
