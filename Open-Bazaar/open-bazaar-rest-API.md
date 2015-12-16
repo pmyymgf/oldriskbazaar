@@ -4,8 +4,6 @@ http://drwasho.github.io/openbazaar-restapi-ui/
 
 https://gist.github.com/drwasho/742505589f62f6aa98b4
 
-https://gist.github.com/drwasho/742505589f62f6aa98b4
-
 OpenBazaar API Tools
 Getting Started
 You must be running the OpenBazaar server for this page to work! Ubuntu users you will need to install 'python-dev', 'libffi-dev', and 'gcc' before running 'requirements.txt' (check the installation instructions to know what I'm talking about.
