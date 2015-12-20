@@ -25,6 +25,22 @@ What happens during a dispute?
 
 (Fees for dispute resolution are paid to notary. Notary can command a high or low fee based on reputation and skill set.)
 
+Reputation and Identity
+
+Identity
+
+* GUIDs (Node ID) are derived from your public key
+* Nicknames within the network are tied to public keys using Onename
+* Used for authentication of messages across network
+* Proof of burn - classes of users to establish initial trust
+
+Web of trust
+
+* Nodes rate other trusted nodes and begin to establish trust webs
+* 
+
+
+
 Bibliography
 
 1.	Sanchez, W. (2015). Protocol https://github.com/drwasho/openbazaar-documentation/blob/master/03%20Protocol.md#3-protocol
