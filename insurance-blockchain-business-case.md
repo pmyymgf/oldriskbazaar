@@ -15,6 +15,7 @@ https://medium.com/@ConsenSys/programmable-blockchains-in-context-ethereum-s-fut
 "The human factors - the mindsets which generate the software - don't fit together. Each enterprise builds their computer system in their own image and these images disagree about what is vital and what is incidental and truth does not flow between them easily. When we need to translate from one world model to another, we put humans in the process and we're back to processes which mirror filling in paper forms rather than genuinely digital cooperation.... Every process requires filling in the same damn name and address data, twenty times a day and more often if you are moving house. How often do you shop from Amazon rather than some more specialized store just because they know where you live?"
 
 Tell me who you are by Vinay Gupta
+
 https://medium.com/@ConsenSys/tell-me-who-you-are-258268bf3180#.6ngiqpk5q
 
 "What does the world really need to know about us? What do specific agencies really need to know about us? Can we get through life revealing less about ourselves using these technologies?
