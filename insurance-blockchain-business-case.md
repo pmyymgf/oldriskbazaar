@@ -49,3 +49,5 @@ https://medium.com/@ConsenSys/tell-me-who-you-are-258268bf3180#.6ngiqpk5q
 "In the more general case, a privileged profile is a profile that I sign, stating that I (as the person this profile information is about) currently considers it to be correct, as far as I can see. Examples of privileged profiles we might see a lot of: medical records, tax records, court transcripts but also less official documents like my score record as a player of baseball in the local neighbourhood team could be privileged profiles."
 
 "You make a statement about me. I approve that statement about me. That's a privileged profile. It's privileged because I said it's true, not because it was signed off on by the Supreme Court!"
+
+"Put some things into blockchains, particularly things like the public keys of major organizations and certificate revocations for people whose keys have been stolen or whatver. Use additional cryptography to provide things like zero knowledge proofs of age without revealing identity. Compartmentalize information about our various roles in ways which make it hard to join profiles without our consent."
