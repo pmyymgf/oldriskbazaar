@@ -1,5 +1,8 @@
 # OpenBazaar REST API resources
 
+NEW: https://gist.github.com/drwasho/bd4b28a5a07c5a952e2f
+NEW: https://gist.github.com/drwasho/742505589f62f6aa98b4
+
 http://drwasho.github.io/openbazaar-restapi-ui/
 
 https://gist.github.com/drwasho/742505589f62f6aa98b4
