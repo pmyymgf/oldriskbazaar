@@ -61,3 +61,7 @@ https://www.accenture.com/t20150811T015521__w__/th-en/_acnmedia/Accenture/Conver
 * Smart controls - computer protocols facilitate, verify, or enforce the negotiation or performance of a contract and obviate the need for contractual clause
 * Cost reduction - infrastructure, transaction costs
 * Eliminates error handling - eliminates reconciliation, real time track and trace audit trail
+
+https://www.linkedin.com/pulse/trump-truth-timestamp-could-blockchain-transform-politics-camas
+
+We've relied on centralized (and potentially corrupt) thrid parties for both verification and interpretation. However, a blockchain has no ulterior motives, no financial incentives, no friends and nor enemies. It obeys mathematical laws and keeps a record of "truths".
