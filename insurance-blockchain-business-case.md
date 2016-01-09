@@ -51,3 +51,13 @@ https://medium.com/@ConsenSys/tell-me-who-you-are-258268bf3180#.6ngiqpk5q
 "You make a statement about me. I approve that statement about me. That's a privileged profile. It's privileged because I said it's true, not because it was signed off on by the Supreme Court!"
 
 "Put some things into blockchains, particularly things like the public keys of major organizations and certificate revocations for people whose keys have been stolen or whatver. Use additional cryptography to provide things like zero knowledge proofs of age without revealing identity. Compartmentalize information about our various roles in ways which make it hard to join profiles without our consent."
+
+Blockchain in the Investment Bank by Accenture
+https://www.accenture.com/t20150811T015521__w__/th-en/_acnmedia/Accenture/Conversion-Assets/DotCom/Documents/Global/PDF/Dualpub_13/Accenture-Blockchain-Investment-Bank.pdf#zoom=50
+
+* Secure transaction ledger database shared by all parties in an established, distributed network
+* Trusted third party elimination - assets are held "in the cloud" and are tied to their owners' identities rather than institutional custodians
+* Automation - execution is open to the Internet and settlement is automatic, can run without any human interference and under control of an incorruptible set of business rules
+* Smart controls - computer protocols facilitate, verify, or enforce the negotiation or performance of a contract and obviate the need for contractual clause
+* Cost reduction - infrastructure, transaction costs
+* Eliminates error handling - eliminates reconciliation, real time track and trace audit trail
